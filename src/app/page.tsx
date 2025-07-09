@@ -29,7 +29,7 @@ export default function Home() {
             >
               month wrapped
             </a>
-            <p className="text-sm text-muted-foreground font-[family-name:var(--font-geist-sans)]">An app that lets you see your top played songs on spotify</p>
+            <p className="text-sm text-muted-foreground font-[family-name:var(--font-geist-sans)]">an app that lets you see your top played songs on spotify</p>
           </li>
         </ul>
         <section className="mt-12 flex flex-col items-center">
