@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { Github, Linkedin } from "lucide-react";
 
 export default function Home() {
