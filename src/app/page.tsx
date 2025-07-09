@@ -20,18 +20,6 @@ export default function Home() {
           </a>
           <p className="text-sm text-muted-foreground font-[family-name:var(--font-geist-sans)]">An app that lets you see your top played songs on spotify</p>
         </li>
-        <li>
-          <Link href="#" className="text-primary underline font-medium text-lg font-[family-name:var(--font-geist-sans)]">
-            Project Two
-          </Link>
-          <p className="text-sm text-muted-foreground font-[family-name:var(--font-geist-sans)]">Another project with a short description.</p>
-        </li>
-        <li>
-          <Link href="#" className="text-primary underline font-medium text-lg font-[family-name:var(--font-geist-sans)]">
-            Project Three
-          </Link>
-          <p className="text-sm text-muted-foreground font-[family-name:var(--font-geist-sans)]">Yet another placeholder for your future work.</p>
-        </li>
       </ul>
       <section className="mt-12 flex flex-col items-center">
         <h2 className="text-xl mb-4 font-[family-name:var(--font-geist-sans)]">check me out on here too</h2>
